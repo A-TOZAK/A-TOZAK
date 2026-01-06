@@ -17,7 +17,7 @@ function Header({ boardId, shareUrl, currentPage, setCurrentPage }) {
     <header className="bg-white shadow-md sticky top-0 z-40">
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-          <h1 className="text-2xl font-bold text-gray-800">ふきだしくん</h1>
+          <h1 className="text-2xl font-bold text-gray-800">バブルボード</h1>
 
           <div className="flex items-center gap-2">
             <input
